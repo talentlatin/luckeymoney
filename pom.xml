@@ -28,7 +28,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 		</dependency>
-		<!--  @Controller注解用 添加改注解后，用return "index"可以跳转到index.html页面-->
+		<!--  @Controller注解用 添加改注解后，用return "index"可以跳转到index.html页面 version1-->
 		<!--<dependency>-->
 			<!--<groupId>org.springframework.boot</groupId>-->
 			<!--<artifactId>spring-boot-starter-thymeleaf</artifactId>-->
